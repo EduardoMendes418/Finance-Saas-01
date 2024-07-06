@@ -1,3 +1,6 @@
+## Feature 01 New Project
+Create Project setup
+
 ## Feature 02 Authentication
 Create Sign-In and Sign-Up
 
@@ -27,6 +30,9 @@ Logo: https://logoipsum.com/
 ## Feature 03 Hono
 Create API via Hono setup and config
 Hono: https://hono.dev/
+
+## Feature 04 New Project
+Create Header component
 
 
 
