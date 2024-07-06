@@ -31,7 +31,7 @@ Logo: https://logoipsum.com/
 Create API via Hono setup and config
 Hono: https://hono.dev/
 
-## Feature 04 New Project
+## Feature 04 Header
 Create Header component
 
 ![header](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/0b67f633-0993-4159-b38f-db8b965203de)
