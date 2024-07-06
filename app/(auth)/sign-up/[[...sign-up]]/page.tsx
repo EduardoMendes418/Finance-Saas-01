@@ -22,7 +22,7 @@ export default function PageSignUp() {
         </div>
       </div>
       <div className="h-full bg-blue-950 hidden lg:flex items-center justify-center">
-        <Image src="/logo.svg" height={120} width={120} alt="Logo" />
+        <Image src="/logo.svg" height={100} width={100} alt="Logo" />
       </div>
     </div>
   );
