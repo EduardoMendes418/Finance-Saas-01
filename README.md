@@ -32,5 +32,12 @@ Create Header component
 ![header](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/0b67f633-0993-4159-b38f-db8b965203de)
 
 
+## Feature 04 Drizzle ORM & Neon Database
 
+Create DB https://console.neon.tech/app/projects
+Create Drizzle https://v5.drizzle.studio/
+
+Doc:https://orm.drizzle.team/
+
+command: pnpm db:generate, pnpm db:studio , pnpm db:migrate
 
