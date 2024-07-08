@@ -29,7 +29,8 @@ Create API via Hono setup and config
 Hono: https://hono.dev/
 
 Create Header component
-![header](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/7b6683b3-b519-4999-9125-ade8a7d63867)
+![Header](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/a96a8fc8-50c7-4945-802f-1bfa867ad1a2)
+
 
 
 
