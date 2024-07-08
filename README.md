@@ -29,7 +29,8 @@ Create API via Hono setup and config
 Hono: https://hono.dev/
 
 Create Header component
-![header](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/0b67f633-0993-4159-b38f-db8b965203de)
+![header](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/7b6683b3-b519-4999-9125-ade8a7d63867)
+
 
 
 ## Feature 04 Drizzle ORM & Neon Database
