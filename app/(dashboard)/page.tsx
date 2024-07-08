@@ -1,9 +1,5 @@
-
+"use client";
 
 export default function Home() {
-  return (
-    <>
-      Dashboard Page
-    </>
-  )
+  return <div>HOME PAGE</div>;
 }
