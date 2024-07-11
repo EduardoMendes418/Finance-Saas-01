@@ -43,3 +43,9 @@ Doc:https://orm.drizzle.team/
 command: pnpm db:generate, pnpm db:studio , pnpm db:migrate
 
 ## Feature 05 Accounts GET API
+create Api Get
+
+## Feature 06 Accounts POST API
+create Api post
+create pnpm dlx shadcn-ui@latest add input
+create pnpm dlx shadcn-ui@latest add form
