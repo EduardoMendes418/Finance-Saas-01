@@ -4,8 +4,12 @@ import { Loader2 } from "lucide-react";
 
 export default function PageSignIn() {
   return (
-    <div className="min-h-screen grid grid-cols-1 lg:grid-cols-2">
-      <div className="h-full bg-orange-500 lg:flex flex-col items-center justify-center px-4">
+    <div className="min-h-screen grid grid-cols-1 ">
+      <div className="h-full  bg-gradient-to-b from-blue-950 to-orange-500 lg:flex flex-col items-center justify-center px-4">
+        <div className=" flex flex-col items-center justify-center lg:flex-row mt-24">
+          <Image src="/logo.svg" height={100} width={100} alt="Logo" />
+          <h1 className="font-semibold text-white text-4xl ml-2.5 mt-4">Finance</h1>
+        </div>
         <div className="text-center space-y-4 pt-16">
           <h1 className="font-bold text-4xl text-[#FFFF]">Welcome Back!</h1>
           <p className="text-base text-[#f9f9fa]">
@@ -20,9 +24,6 @@ export default function PageSignIn() {
             <Loader2 className="animate-spin text-muted-foreground" />
           </ClerkLoading>
         </div>
-      </div>
-      <div className="h-full bg-blue-950 hidden lg:flex items-center justify-center">
-        <Image src="/logo.svg" height={100} width={100} alt="Logo" />
       </div>
     </div>
   );
