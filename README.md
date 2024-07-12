@@ -21,7 +21,7 @@ Create middleware.ts
 Clerk: https://clerk.com/docs/references/nextjs/clerk-middleware
 
 Create logo free
-Logo: https://logoipsum.com/
+
 ![finance](https://github.com/EduardoMendes418/Finance-Saas-01/assets/34344214/6a7b8920-9333-4414-9d04-f92bdd212d3c)
 
 
@@ -48,6 +48,12 @@ create Api Get
 ## Feature 06 Accounts POST API
 create Api post
 
-create pnpm dlx shadcn-ui@latest add input
+Install pnpm dlx shadcn-ui@latest add input
 
-create pnpm dlx shadcn-ui@latest add form
+Install pnpm dlx shadcn-ui@latest add form
+
+Create New account 
+
+![new-account](https://github.com/user-attachments/assets/1c84885d-f934-492d-9dc2-8816cbc1c4ae)
+
+## Feature 07
