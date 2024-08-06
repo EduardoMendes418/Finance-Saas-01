@@ -49,6 +49,7 @@ create Api Get
 create Api post
 
 Install 
+
  pnpm dlx shadcn-ui@latest add input
  
  pnpm dlx shadcn-ui@latest add form
@@ -57,11 +58,12 @@ Create New account
 
 ![new-account](https://github.com/user-attachments/assets/1c84885d-f934-492d-9dc2-8816cbc1c4ae)
 
-## Feature 07 Data table component
+## Feature 07 Data table component Feature 08 Accounts bulk delete
 
 Create Table 
 
 Install 
+
  pnpm dlx shadcn-ui@latest add checkbox,table and cards
  
  pnpm add @tanstack/react-table
