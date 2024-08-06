@@ -58,7 +58,7 @@ Create New account
 
 ![new-account](https://github.com/user-attachments/assets/1c84885d-f934-492d-9dc2-8816cbc1c4ae)
 
-## Feature 07 Data table component Feature 08 Accounts bulk delete
+## Feature 07 Data table component
 
 Create Table 
 
@@ -70,4 +70,14 @@ Install
  
 ![accounts](https://github.com/user-attachments/assets/f02eb89b-14d2-4dcf-9536-d806ff8ff94c)
 
+
+## Feature 08 Accounts bulk delete
+
+![dialog](https://github.com/user-attachments/assets/d9cbf235-0507-4c5c-af53-c20a517ac510)
+
+Install 
+
+ pnpm dlx shadcn-ui@latest add dialog, sheet and skeleton
+
+ 
 
