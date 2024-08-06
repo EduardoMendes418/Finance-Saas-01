@@ -57,7 +57,7 @@ dependencies:
     specifier: 0.5.1
     version: 0.5.1(drizzle-orm@0.30.10)(zod@3.23.8)
   hono:
-    specifier: ^4.4.11
+    specifier: ^4.3.2
     version: 4.4.11
   init:
     specifier: ^0.1.2
